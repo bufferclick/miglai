@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "miglai",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "klaudes",
+			"database_id": "3a4fadb4-378c-4fa8-b2d3-532e7cbe60ff"
+		}
+	]
+}
